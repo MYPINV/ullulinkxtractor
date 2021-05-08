@@ -1,6 +1,2 @@
-flask
-bs4
+telebot
 requests
-gunicorn
-lxml
-selenium
